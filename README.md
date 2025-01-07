@@ -15,8 +15,7 @@
 1. ReducePic.zip を解凍して好きなところに置く。
 2. <img src="image/PowerShellShortcurIcon.png" alt="PowerShellショートカットアイコン" height="18">ReducePic（種類：ショートカット） をダブルクリックで実行する。
 3. 各項目を指定して実行ボタンで処理開始。
-
-
+<img src="image/reducepic_window.png" alt="ReducePicの画面" width="500" hspace="40">
 
 ### 補足事項
 - 割合(%)指定をすると、もともとサイズが小さい画像も一律で縮小します。過剰な解像度の大きすぎる画像ファイルを適当なサイズに落とすという本ツールの趣旨としては、ピクセル指定の方が使いやすいと思われます。割合(%)指定はその点を理解の上で使用してください。
