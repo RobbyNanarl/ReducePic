@@ -1,0 +1,2 @@
+# ReducePic
+ファルダ内の画像を一括で縮小するPowerShellスクリプト
