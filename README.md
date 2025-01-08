@@ -13,7 +13,8 @@
 
 ### 使い方
 1. ReducePic.zip を解凍して好きなところに置く。
-2. <img src="image/PowerShellShortcurIcon.png" alt="PowerShellショートカットアイコン" height="18">ReducePic（種類：ショートカット） をダブルクリックで実行する。
+2. <img src="image/PowerShellShortcurIcon.png" alt="PowerShellショートカットアイコン" height="18">ReducePic（種類：ショートカット） をダブルクリックで実行する。  
+　　　　[→実行できないとき](/run_ps1.md)
 3. 各項目を指定して実行ボタンで処理開始。
 <img src="image/reducepic_window.png" alt="ReducePicの画面" width="500" hspace="40">
 
