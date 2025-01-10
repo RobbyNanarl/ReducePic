@@ -1,6 +1,6 @@
 # ReducePic
 
-**右の Releases から ReducePic_v100.zip をダウンロードしてください。**
+**[ReducePicのリポジトリ](https://github.com/RobbyNanarl/ReducePic)右側の Releases から ReducePic_v100.zip をダウンロードしてください。**
 
 ［GUI型PowerShellスクリプト］  
 フォルダ内の画像ファイルを一括でサイズ縮小します。
